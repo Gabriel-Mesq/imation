@@ -13,16 +13,23 @@ const ProductEnterprise = () => {
                         <p>Atendimento prioritário e especializado para resolver suas dúvidas e problemas rapidamente.</p>
                     </div>
                     <div className="feature-card">
-                        <h3>Controle de Estoque</h3>
-                        <p>Gerencie seus produtos, entradas e saídas com precisão e evite perdas.</p>
+                        <h3>Gestão Contábil</h3>
+                        <li>Contas a receber e a pagar</li>
+                        <li>Relatórios</li>
+                        <li>Atualizações conforme mudanças legais</li>
                     </div>
                     <div className="feature-card">
-                        <h3>Controle de Mercadoria</h3>
-                        <p>Rastreabilidade completa de suas mercadorias, desde a compra até a venda.</p>
+                        <h3>Gestão Fiscal</h3>
+                        <li>Livros Fiscais</li>
+                        <li>Apuração de Impostos</li>
+                        <li>Relatórios</li>
+                        <li>Atualizações conforme mudanças legais</li>
                     </div>
                     <div className="feature-card">
-                        <h3>Gestão de Patrimônio</h3>
-                        <p>Controle total sobre os ativos da sua empresa, com depreciação e localização.</p>
+                        <h3>Gestão de RH</h3>
+                        <li>Folha de Pagamento</li>
+                        <li>eSocial, e-Consignado</li>
+                        <li>Atualizações conforme mudanças legais</li>
                     </div>
                 </div>
             </div>
