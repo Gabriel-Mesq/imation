@@ -1,8 +1,9 @@
 import React from 'react';
+import './products.css';
 
 const ProductNFSeFree = () => {
     return (
-        <section id="product-free" className="section product-free">
+        <section id="product-free" className="product-section product-free">
             <div className="container">
                 <h2 className="section-title">Emissor de NFSe Gratuito</h2>
                 <div className="product-content">
@@ -11,7 +12,7 @@ const ProductNFSeFree = () => {
                             Simplifique a emissão de Notas Fiscais de Serviço Eletrônicas com nosso software desktop gratuito.
                             Ideal para prestadores de serviços e pequenas empresas que buscam agilidade e conformidade fiscal sem custos.
                         </p>
-                        <ul className="feature-list">
+                        <ul className="product-feature-list">
                             <li>Emissão rápida e ilimitada</li>
                             <li>Armazenamento local seguro</li>
                             <li>Interface intuitiva e fácil de usar</li>

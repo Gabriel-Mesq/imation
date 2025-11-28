@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
-import ProductsCarousel from './components/ProductsCarousel';
+import ProductsCarousel from './components/products/ProductsCarousel';
 import ProductEnterprise from './components/ProductEnterprise';
 import Tutorial from './components/Tutorial';
 import Download from './components/Download';

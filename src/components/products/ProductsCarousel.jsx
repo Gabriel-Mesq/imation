@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import ProductNFSeFree from './products/ProductNFSeFree';
-import ProductPatrimonial from './products/ProductPatrimonial';
+import ProductNFSeFree from './ProductNFSeFree';
+import ProductPatrimonial from './ProductPatrimonial';
 
 const ProductsCarousel = () => {
     const [currentSlide, setCurrentSlide] = useState(0);
@@ -18,8 +18,8 @@ const ProductsCarousel = () => {
     };
 
     return (
-        <div id="products-carousel" className="carousel-container relative">
-            <div className="carousel-wrapper">
+        <div id="products-carousel" className="products-carousel-container">
+            <div className="products-carousel-wrapper">
                 {slides[currentSlide]}
             </div>
 
@@ -47,7 +47,7 @@ const ProductsCarousel = () => {
                 {slides.map((_, index) => (
                     <span
                         key={index}
-                        className={`dot ${currentSlide === index ? 'active' : ''}`}
+                        className={`carousel-dot ${currentSlide === index ? 'active' : ''}`}
                         onClick={() => setCurrentSlide(index)}
                     ></span>
                 ))}
