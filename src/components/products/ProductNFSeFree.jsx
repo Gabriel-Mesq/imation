@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ProductFree = () => {
+const ProductNFSeFree = () => {
     return (
         <section id="product-free" className="section product-free">
             <div className="container">
@@ -28,4 +28,4 @@ const ProductFree = () => {
     );
 };
 
-export default ProductFree;
+export default ProductNFSeFree;

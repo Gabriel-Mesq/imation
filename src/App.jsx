@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
-import ProductFree from './components/ProductFree';
+import ProductsCarousel from './components/ProductsCarousel';
 import ProductEnterprise from './components/ProductEnterprise';
 import Tutorial from './components/Tutorial';
 import Download from './components/Download';
@@ -16,7 +16,7 @@ function App() {
       <main>
         <Hero />
         <About />
-        <ProductFree />
+        <ProductsCarousel />
         <ProductEnterprise />
         <Tutorial />
         <Download />
