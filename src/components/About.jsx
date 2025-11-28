@@ -7,7 +7,7 @@ const About = () => {
                 <h2 className="section-title">Sobre a Imation</h2>
                 <div className="about-content">
                     <p>
-                        A Imation Tecnologia é uma empresa dedicada a fornecer soluções de software inovadoras e eficientes para empresas de todos os portes.
+                        A Imation Tecnologia e Informação é uma empresa dedicada a fornecer soluções de software inovadoras e eficientes para empresas de todos os portes.
                         Nosso foco é simplificar a gestão empresarial através da tecnologia, permitindo que nossos clientes foquem no que realmente importa: o crescimento do seu negócio.
                     </p>
                     <p>

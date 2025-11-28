@@ -11,8 +11,9 @@ const Header = () => {
                     <ul>
                         <li><a href="#hero">Início</a></li>
                         <li><a href="#about">Sobre</a></li>
-                        <li><a href="#product-free">NFSe Grátis</a></li>
+                        <li><a href="#product-free">Produto</a></li>
                         <li><a href="#product-enterprise">Enterprise</a></li>
+                        <li><a href="#tutorial">Tutorial</a></li>
                         <li><a href="#download" className="btn-download-nav">Baixar Agora</a></li>
                     </ul>
                 </nav>

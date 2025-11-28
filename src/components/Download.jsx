@@ -11,7 +11,7 @@ const Download = () => {
                         <span className="icon">⬇️</span>
                         <span className="text">
                             <span className="label">Download para Windows</span>
-                            <span className="version">Versão 2.4.0 (64-bit)</span>
+                            <span className="version">Versão 1.1.3 (32/64-bit)</span>
                         </span>
                     </button>
                 </div>

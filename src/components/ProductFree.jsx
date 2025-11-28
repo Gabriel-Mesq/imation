@@ -20,8 +20,7 @@ const ProductFree = () => {
                         </ul>
                     </div>
                     <div className="product-image">
-                        {/* Placeholder for product screenshot */}
-                        <div className="img-placeholder">Software Screenshot</div>
+                        <img src="/print_tela.jpg" alt="Software Screenshot" className="product-screenshot" />
                     </div>
                 </div>
             </div>
