@@ -7,13 +7,13 @@ const Download = () => {
                 <h2>Comece a usar agora mesmo</h2>
                 <p>Baixe o Emissor de NFSe Gratuito e transforme a gestão do seu negócio.</p>
                 <div className="download-options">
-                    <button className="btn-download-large">
+                    <a href="https://github.com/Gabriel-Mesq/imation/releases/download/v1.1.1.3/OpenErp-1.1.1.3-x86-Instalador.exe" className="btn-download-large">
                         <span className="icon">⬇️</span>
                         <span className="text">
                             <span className="label">Download para Windows</span>
-                            <span className="version">Versão 1.1.3 (32/64-bit)</span>
+                            <span className="version">Versão 1.1.1.3 (32/64-bit)</span>
                         </span>
-                    </button>
+                    </a>
                 </div>
                 <p className="requirements">Requisitos: Windows 10 ou superior.</p>
             </div>
